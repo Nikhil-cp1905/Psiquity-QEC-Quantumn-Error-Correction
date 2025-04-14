@@ -1,0 +1,9 @@
+streamlit
+numpy
+matplotlib
+qutip
+cirq
+pennylane
+scikit-learn
+pandas
+
