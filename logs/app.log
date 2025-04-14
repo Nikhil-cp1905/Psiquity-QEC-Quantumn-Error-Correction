@@ -1,0 +1,40 @@
+2025-04-14 01:08:50,015 Ran noise simulation with 10 repetitions
+2025-04-14 01:09:20,734 Ran noise simulation with 10 repetitions
+2025-04-14 01:09:24,678 Ran noise simulation with 13 repetitions
+2025-04-14 01:09:29,833 Ran Majorana simulation with params: {'coupling': 0.5, 'field_strength': 0.3}
+2025-04-14 01:09:32,476 Ran Majorana simulation with params: {'coupling': 0.85, 'field_strength': 0.3}
+2025-04-14 01:09:35,711 Ran Majorana simulation with params: {'coupling': 0.85, 'field_strength': 0.86}
+2025-04-14 01:09:41,029 Ran Majorana simulation with params: {'coupling': 0.14, 'field_strength': 0.12}
+2025-04-14 01:09:45,923 Ran Majorana simulation with params: {'coupling': 0.11, 'field_strength': 0.1}
+2025-04-14 01:09:50,586 Ran Majorana simulation with params: {'coupling': 0.11, 'field_strength': 0.1}
+2025-04-14 01:09:58,577 Ran Majorana simulation with params: {'coupling': 0.11, 'field_strength': 0.1}
+2025-04-14 01:10:04,359 Trained ML model with 1000 samples
+2025-04-14 01:10:12,507 Trained ML model with 3559 samples
+2025-04-14 01:10:19,359 Trained ML model with 543 samples
+2025-04-14 01:10:24,393 Trained ML model with 4889 samples
+2025-04-14 01:10:30,655 Trained ML model with 4889 samples
+2025-04-14 01:10:36,710 Ran error correction with rate 0.1 and 3-Qubit Repetition
+2025-04-14 01:10:45,455 Ran error correction with rate 0.5 and 3-Qubit Repetition
+2025-04-14 01:10:52,245 Ran error correction with rate 0.5 and 3-Qubit Repetition
+2025-04-14 01:15:50,453 Ran noise simulation with 13 repetitions
+2025-04-14 01:15:53,558 Ran noise simulation with 18 repetitions
+2025-04-14 01:15:55,573 Ran noise simulation with 18 repetitions
+2025-04-14 01:15:57,132 Ran noise simulation with 18 repetitions
+2025-04-14 01:16:00,639 Ran noise simulation with 24 repetitions
+2025-04-14 01:16:05,513 Ran Majorana simulation with params: {'coupling': 0.5, 'field_strength': 0.3}
+2025-04-14 01:16:07,033 Ran Majorana simulation with params: {'coupling': 0.5, 'field_strength': 0.3}
+2025-04-14 01:16:07,786 Ran Majorana simulation with params: {'coupling': 0.5, 'field_strength': 0.3}
+2025-04-14 01:16:10,308 Ran Majorana simulation with params: {'coupling': 1.0, 'field_strength': 0.3}
+2025-04-14 01:16:15,010 Ran Majorana simulation with params: {'coupling': 1.0, 'field_strength': 1.0}
+2025-04-14 01:16:27,135 Ran Majorana simulation with params: {'coupling': 1.0, 'field_strength': 1.0}
+2025-04-14 01:16:34,317 Trained ML model with 1000 samples
+2025-04-14 01:16:38,254 Trained ML model with 3914 samples
+2025-04-14 01:16:42,784 Trained ML model with 211 samples
+2025-04-14 01:16:46,252 Trained ML model with 211 samples
+2025-04-14 01:16:49,140 Trained ML model with 211 samples
+2025-04-14 01:19:55,565 Trained ML model with 211 samples
+2025-04-14 01:20:07,499 Trained ML model with 1940 samples
+2025-04-14 01:20:19,332 Trained ML model with 5000 samples
+2025-04-14 01:20:29,325 Ran Majorana simulation with params: {'coupling': 1.0, 'field_strength': 1.0}
+2025-04-14 01:20:31,237 Ran Majorana simulation with params: {'coupling': 0.1, 'field_strength': 1.0}
+2025-04-14 01:20:33,136 Ran Majorana simulation with params: {'coupling': 0.1, 'field_strength': 0.1}
